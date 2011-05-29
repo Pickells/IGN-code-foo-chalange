@@ -1,0 +1,80 @@
+
+Abdullah Alhasan
+
+Kuwait, Al-Roda, Block 5, House 19, Street 51
+Date of Birth : 11\5\1986, Nationality : Kuwait
+Tel: (+965) 97977031
+E-Mail: extraveganza@gmail.com
+
+About Me:
+
+I am a fast learner, have a positive thinking, can easly fit in almost any environment, a good listner, and a hard worker.
+
+Since my graduation "first semester 2010/2011" I have planned to learn and make i-phone apps using the X-code , searching for the best place to work.
+
+Qualification:
+
+I) Programming Skills: 
+A) Microsoft Office
+1) Excel
+2) Word
+3) Power Point
+4) Access
+
+B) Programming Language:
+1) I'm able to program with:
+ C++, Visual studio, SQL and COBOL
+
+2) In collage I studied:
+C, COBOL, Assembly, Pascal, Prolog, LISP,
+Oracle, MySQL, Open GL
+
+	C) Programming Tools I can use:
+MINITAP, Adobe Flash, Mat Lab
+
+
+II) Projects:
+A.	A friendly, full TicTacToe game using Visual C++.
+B.	For my DataBase course i did a full data base for flowers and its relationship with bugs and soil, and designed a data base for the galaxy (Sun, Moons and Planets ).
+C.	For my Software Engineering class project I made "Mall Gateway", a mall thru the internet .
+D.	made a search program using Java.
+E.   I participated in Microsoft's Imagin Cup with a project about polution .
+
+III) Other skills:
+A.	Worked on Windows ,Linux and MAC  OS's
+B.	I have an excellent troubleshooting talent, by using logic thinking and searching the net for solutions.
+C.	I can lead and follow, I've been led and followed in many occasions in collage and in other part time jobs.
+D.    I also work on Adobe Photoshop, and Final Cut.
+
+IV) Language:
+A.	Arabic: Excellent read and write
+B.	English: Excellent read,write and a fluent speaker 
+
+
+Education:
+
+- I attended Hawkeden primary school in the UK for about 2-3 years.
+
+- Graduated from Abdullah Al-Otaibi high school science major class 2004
+
+- Graduated from Kuwait University (first semester 2010/2011) 
+Computer Science major and studied:
+1) Algorithm
+2) Data Structure
+3) Computer Structure
+4) Java
+5) Databases
+6) Artificial Intelligence
+7) Graphics
+8) Software Engineering
+
+- My minor is English translation.
+
+Hobbies :
+
+	A. Football
+	B. Basketball
+	C. Vedio games
+	D. Vallyball
+	E. watching anime
+	
